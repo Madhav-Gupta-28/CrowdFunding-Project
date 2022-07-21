@@ -1,0 +1,82 @@
+{
+  "contractName": "CrowdFunding",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.8.15+commit.e14f2714\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"project:/contracts/CrowdFunding.sol\":\"CrowdFunding\"},\"evmVersion\":\"london\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"project:/contracts/CrowdFunding.sol\":{\"keccak256\":\"0x7edb7268703a2e1044dd48bc721f14f1b53523a46c5e96348e8777131f482a5f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://21bcbfe35a35e91d7f8b5376bfa59da03663e3a4eb37979ae0e35260241c2939\",\"dweb:/ipfs/QmVeN1zzuGyHyhamX1E85cewftELHAts4QrMwiHV2TqEzw\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603f80601d6000396000f3fe6080604052600080fdfea2646970667358221220ae7507dc791eba86149f951cf8660fd488f92d205d81460cdf86c3e549d5f27264736f6c634300080f0033",
+  "deployedBytecode": "0x6080604052600080fdfea2646970667358221220ae7507dc791eba86149f951cf8660fd488f92d205d81460cdf86c3e549d5f27264736f6c634300080f0033",
+  "immutableReferences": {},
+  "generatedSources": [],
+  "deployedGeneratedSources": [],
+  "sourceMap": "61:27:0:-:0;;;;;;;;;;;;;;;;;;;",
+  "deployedSourceMap": "61:27:0:-:0;;;;;",
+  "source": "//SPDX-License-Identifier: MIT\r\n\r\npragma solidity ^0.8.8;\r\n\r\ncontract CrowdFunding{\r\n\r\n}",
+  "sourcePath": "C:\\Users\\hp\\Desktop\\Web3-projects\\crowd-funding-smc\\contracts\\CrowdFunding.sol",
+  "ast": {
+    "absolutePath": "project:/contracts/CrowdFunding.sol",
+    "exportedSymbols": {
+      "CrowdFunding": [
+        2
+      ]
+    },
+    "id": 3,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 1,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".8"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "34:23:0"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "CrowdFunding",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "fullyImplemented": true,
+        "id": 2,
+        "linearizedBaseContracts": [
+          2
+        ],
+        "name": "CrowdFunding",
+        "nameLocation": "70:12:0",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 3,
+        "src": "61:27:0",
+        "usedErrors": []
+      }
+    ],
+    "src": "34:54:0"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.8.15+commit.e14f2714.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0x8A3326a8e85B80C5249119dcD1FD504415526ff7",
+      "transactionHash": "0xe0fde8db13f35af6f499a023213ff27696878fb6a8d3e93ed7ccd5948fb1e85a"
+    }
+  },
+  "schemaVersion": "3.4.8",
+  "updatedAt": "2022-07-21T06:17:04.157Z",
+  "devdoc": {
+    "kind": "dev",
+    "methods": {},
+    "version": 1
+  },
+  "userdoc": {
+    "kind": "user",
+    "methods": {},
+    "version": 1
+  }
+}
